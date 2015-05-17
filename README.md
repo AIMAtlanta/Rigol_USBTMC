@@ -118,4 +118,4 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## Author
 Kevin D. Nielson (2015.04.19)
 
-[AIM - Atlanta Instrumentation and Measurement, LLC](www.aimatlanta.com)
+[AIM - Atlanta Instrumentation and Measurement, LLC](http://www.aimatlanta.com)
