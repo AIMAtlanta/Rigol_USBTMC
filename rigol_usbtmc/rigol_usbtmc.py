@@ -198,7 +198,7 @@ class Scope(object):
         @property
         def data(self):
             self.p.write(':WAV:DATA? CHAN{:d}'.format(self.chn))
-            raw_data = self.p.read()
+            raw_data = self.p.read()[10:]
             data = numpy.frombuffer(raw_data, 'B')
             return self.scale_data(data)
 
