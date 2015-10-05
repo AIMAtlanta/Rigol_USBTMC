@@ -13,7 +13,7 @@ setup(
     name='Rigol_USBTMC',
     version='0.0.2',
     description='A simple PyUSBTMC-based interface for the Rigol DS1102E Oscilloscope.',
-    author='Kevin D. Nielsonm, Boddmg',
+    author='Kevin D. Nielson, Boddmg',
     author_email='',
     license='MIT',
     classifiers=[
