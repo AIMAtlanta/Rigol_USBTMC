@@ -26,6 +26,8 @@ imported by slightly different names than their names in `pip`: PyUSB
 `pip install pyusb` but imported by `import usb`;  PyUSBTMC
 (version 0.1dev15 as of this document) is installed with
 `pip install pyusbtmc` but is imported by `import usbtmc`.)
+To run the example.py, you should install the matplotlib with  
+`pip install pyusbtmc`.  
 
 This project has been developed to support the automated interaction of
 the Rigol DS1102E and the Hantek 1025G DDS function generator, and as
